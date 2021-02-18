@@ -1,0 +1,1 @@
+$('.new').addClass('bigAssTitle  alignment');
