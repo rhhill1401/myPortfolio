@@ -1,13 +1,5 @@
 'use script';
-$(window).on('load', function () {
-  $('.fadeAway').hide();
-  $('.fadeAway').fadeIn(4000);
-});
 
-// $(window).on('load', function () {
-//   $('.fab').hide();
-//   $('.fab').fadeIn(4000);
-// });
 
 $('.portrait').addClass('.main-header');
 $('.display-4').css('color', 'white');
