@@ -251,6 +251,22 @@ p2 {
   background-color: #251812;
 }
 
+.dropHome {
+  background-color: #fbe8d3;
+}
+
+.primary1 {
+  background-color: #a3d5ac;
+}
+
+.primary3 {
+  background-color: #283c63;
+}
+
+.primary2 {
+  background-color: #928a97;
+}
+
 /* Animations */
 .tracking-in-expand {
   -webkit-animation: tracking-in-expand 1.9s cubic-bezier(0.215, 0.61, 0.355, 1)
